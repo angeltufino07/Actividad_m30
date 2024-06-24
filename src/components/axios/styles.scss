@@ -1,0 +1,29 @@
+.Main_Products{
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+img{
+    width: 250px;
+}
+
+.descrip{
+
+    width: 220px;
+}
+
+.Product{
+
+    
+    margin: 45px 40px;
+    display: flex;
+    justify-content: space-between;  
+    flex-direction: column; 
+    flex-wrap: nowrap; 
+
+
+}

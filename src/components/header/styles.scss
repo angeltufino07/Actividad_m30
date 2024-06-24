@@ -1,0 +1,25 @@
+.Header_Nav{
+
+   
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+     background-color: #b8eaff;
+    padding: 20px 10px;
+    margin-bottom: 30px;
+}
+
+.nav{
+    display:flex;
+    font-size: 22px;
+    flex-direction:row;
+    justify-content:space-between;
+    width: 450px;
+    align-items: center;
+
+}
+
+.logo{
+
+    width: 150px;
+}
